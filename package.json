@@ -1,0 +1,12 @@
+{
+  "name": "carousel-lite",
+  "version": "1.0.0",
+  "description": "Free Instagram carousel renderer. Topic to AirDrop-ready PNGs, one clean style, zero design work.",
+  "private": true,
+  "scripts": {
+    "build": "node build.js"
+  },
+  "dependencies": {
+    "puppeteer": "^23.0.0"
+  }
+}

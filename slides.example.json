@@ -1,0 +1,27 @@
+[
+  {
+    "type": "hook",
+    "slideNum": "01 / 05",
+    "stepLabel": "FREE GUIDE",
+    "headline": "5 AI tools every [[beginner]] needs",
+    "subline": "No coding. No jargon. Just the tools that actually move the needle.",
+    "terminal": ["$ save this post", "> you'll want it later"],
+    "handle": "@yourhandle"
+  },
+  {
+    "type": "step",
+    "slideNum": "02 / 05",
+    "stepLabel": "TOOL 01",
+    "headline": "The one that [[writes for you]]",
+    "subline": "Drafts emails, captions, and posts in seconds so you stop staring at a blank page.",
+    "terminal": ["$ open it", "> paste your rough idea", "ok clean draft"],
+    "handle": "@yourhandle"
+  },
+  {
+    "type": "cta",
+    "stepLabel": "FREE",
+    "headline": "Want the [[full list?]]",
+    "subline": "Comment below and I'll send it to you.",
+    "keyword": "TOOLS"
+  }
+]
