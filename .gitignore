@@ -1,4 +1,5 @@
 node_modules
 out
 slides.json
+theme.json
 .DS_Store

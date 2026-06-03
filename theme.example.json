@@ -1,0 +1,22 @@
+{
+  "name": "Warm Editorial",
+  "fonts": {
+    "heading": { "family": "Fraunces", "weights": "400;900", "css": "'Fraunces', serif" },
+    "body": { "family": "Space Grotesk", "weights": "400;500", "css": "'Space Grotesk', sans-serif" },
+    "mono": { "family": "JetBrains Mono", "weights": "500;700", "css": "'JetBrains Mono', monospace" }
+  },
+  "colors": {
+    "bg": "#F4EFE6",
+    "bgEdge": "#EBE3D4",
+    "ink": "#2A1F14",
+    "inkDim": "rgba(42,31,20,0.62)",
+    "inkMute": "rgba(42,31,20,0.40)",
+    "accent": "#C15F3C",
+    "accentBright": "#E8945A",
+    "term": "#241D16",
+    "termText": "#EAD9C5"
+  },
+  "headline": { "case": "none", "weight": 900, "size": 96, "letterSpacing": -2 },
+  "useTerminal": true,
+  "radius": 18
+}
