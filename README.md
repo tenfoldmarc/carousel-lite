@@ -4,7 +4,7 @@
 
 Turn any topic into a finished Instagram carousel. Real copy, real slides, rendered as AirDrop-ready PNGs. One clean built-in style, zero design work, zero setup beyond one install.
 
-This is the **free** version. The full `/carousel` (multiple styles, AI-generated cover images, viral hook intelligence, topic brainstorming, and custom brand kits) is inside [AI Builders](https://skool.com/ten-fold).
+This is the **free** version. The full `/carousel` (multiple styles, AI-generated cover images, viral hook intelligence, topic brainstorming, and custom brand kits) is part of the Go Viral System inside [AI Builders](https://skool.com/ten-fold).
 
 ---
 
@@ -63,8 +63,8 @@ PNGs land in `./out`.
 
 ---
 
-## Want the full version?
+## Get the Go Viral System
 
-The complete `/carousel` adds multiple styles, AI cover images, proven viral hook templates, topic brainstorming, and your own brand kit. It's inside AI Builders: [skool.com/ten-fold](https://skool.com/ten-fold)
+The complete `/carousel` adds multiple styles, AI cover images, proven viral hook templates, topic brainstorming, and your own brand kit. Get the Go Viral System inside AI Builders: [skool.com/ten-fold](https://skool.com/ten-fold)
 
 Built by [@tenfoldmarc](https://www.instagram.com/tenfoldmarc).
